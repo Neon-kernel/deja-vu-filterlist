@@ -1,4 +1,4 @@
-# deja-vu-filterlist
+# Déjà vu filter list
 Another ad blocker filter list to remove various copycats websites
 
 ## How to install
