@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Déjà vu filter list
 ! Description: Another ad blocker filter list to remove various copycats websites
-! Version: 1
+! Version: 2
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Neon-kernel/deja-vu-filterlist
 ! Licence: https://github.com/Neon-kernel/deja-vu-filterlist/blob/main/LICENSE
@@ -9,7 +9,7 @@
 ||askcodez.com^
 bing.*##.b_algo:has(a[href*="askcodez.com"])
 duckduckgo.*##.result:has(a[href*="askcodez.com"])
-qwant.*##.result:has(a[href*=""])google.*##.g:has(a[href*="askcodez.com"])
+qwant.*##.result:has(a[href*=""])
 google.*##.g:has(a[href*="askcodez.com"])
 
 ||cloudstack.ninja^
