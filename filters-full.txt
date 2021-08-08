@@ -60,6 +60,12 @@ duckduckgo.*##.result:has(a[href*="it-swarm-fr.com"])
 qwant.*##.result:has(a[href*="it-swarm-fr.com"])
 google.*##.g:has(a[href*="it-swarm-fr.com"])
 
+||joyk.com^
+bing.*##.b_algo:has(a[href*="joyk.com"])
+duckduckgo.*##.result:has(a[href*="joyk.com"])
+qwant.*##.result:has(a[href*="joyk.com"])
+google.*##.g:has(a[href*="joyk.com"])
+
 ||kit.tools^
 bing.*##.b_algo:has(a[href*="kit.tools"])
 duckduckgo.*##.result:has(a[href*="kit.tools"])
