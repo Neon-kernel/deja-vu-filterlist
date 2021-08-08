@@ -78,6 +78,12 @@ duckduckgo.*##.result:has(a[href*="pcmbjobs.com"])
 qwant.*##.result:has(a[href*="pcmbjobs.com"])
 google.*##.g:has(a[href*="pcmbjobs.com"])
 
+||reposhub.com^
+bing.*##.b_algo:has(a[href*="reposhub.com"])
+duckduckgo.*##.result:has(a[href*="reposhub.com"])
+qwant.*##.result:has(a[href*="reposhub.com"])
+google.*##.g:has(a[href*="reposhub.com"])
+
 ||semicolonworld.com^
 bing.*##.b_algo:has(a[href*="semicolonworld.com"])
 duckduckgo.*##.result:has(a[href*="semicolonworld.com"])
