@@ -102,6 +102,12 @@ duckduckgo.*##.result:has(a[href*="semicolonworld.com"])
 qwant.*##.result:has(a[href*="semicolonworld.com"])
 google.*##.g:has(a[href*="semicolonworld.com"])
 
+||turkeyvalleychurch.org
+bing.*##.b_algo:has(a[href*="turkeyvalleychurch.org"])
+duckduckgo.*##.result:has(a[href*="turkeyvalleychurch.org"])
+qwant.*##.result:has(a[href*="turkeyvalleychurch.org"])
+google.*##.g:has(a[href*="turkeyvalleychurch.org"])
+
 ||tutorialfor.com^
 bing.*##.b_algo:has(a[href*="tutorialfor.com"])
 duckduckgo.*##.result:has(a[href*="tutorialfor.com"])
