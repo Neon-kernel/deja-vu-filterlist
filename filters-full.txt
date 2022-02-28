@@ -41,6 +41,12 @@ duckduckgo.*##.result:has(a[href*="debugcn.com"])
 qwant.*##.result:has(a[href*="debugcn.com"])
 google.*##.g:has(a[href*="debugcn.com"])
 
+||docschina.org^
+bing.*##.b_algo:has(a[href*="docschina.org"])
+duckduckgo.*##.result:has(a[href*="docschina.org"])
+qwant.*##.result:has(a[href*="docschina.org"])
+google.*##.g:has(a[href*="docschina.org"])
+
 ||githubmemory.com^
 bing.*##.b_algo:has(a[href*="githubmemory.com"])
 duckduckgo.*##.result:has(a[href*="githubmemory.com"])
