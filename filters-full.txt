@@ -113,6 +113,12 @@ duckduckgo.*##.result:has(a[href*="tutorialfor.com"])
 qwant.*##.result:has(a[href*="tutorialfor.com"])
 google.*##.g:has(a[href*="tutorialfor.com"])
 
+||w3cub.com^
+bing.*##.b_algo:has(a[href*="w3cub.com"])
+duckduckgo.*##.result:has(a[href*="w3cub.com"])
+qwant.*##.result:has(a[href*="w3cub.com"])
+google.*##.g:has(a[href*="w3cub.com"])
+
 ||webdevdesigner.com^
 bing.*##.b_algo:has(a[href*="webdevdesigner.com"])
 duckduckgo.*##.result:has(a[href*="webdevdesigner.com"])
