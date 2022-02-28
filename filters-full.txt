@@ -5,10 +5,16 @@
 ! Homepage: https://github.com/Neon-kernel/deja-vu-filterlist
 ! Licence: https://github.com/Neon-kernel/deja-vu-filterlist/blob/main/LICENSE
 
+||apimirror.com^
+bing.*##.b_algo:has(a[href*="apimirror.com"])
+duckduckgo.*##.result:has(a[href*="apimirror.com"])
+qwant.*##.result:has(a[href*=""])
+google.*##.g:has(a[href*="apimirror.com"])
+
 ||askcodez.com^
 bing.*##.b_algo:has(a[href*="askcodez.com"])
 duckduckgo.*##.result:has(a[href*="askcodez.com"])
-qwant.*##.result:has(a[href*=""])
+qwant.*##.result:has(a[href*="askcodez.com"])
 google.*##.g:has(a[href*="askcodez.com"])
 
 ||cloudstack.ninja^
