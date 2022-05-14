@@ -101,6 +101,12 @@ duckduckgo.*##.result:has(a[href*="pcmbjobs.com"])
 qwant.*##.result:has(a[href*="pcmbjobs.com"])
 google.*##.g:has(a[href*="pcmbjobs.com"])
 
+||prograide.com^
+bing.*##.b_algo:has(a[href*="prograide.com"])
+duckduckgo.*##.result:has(a[href*="prograide.com"])
+qwant.*##.result:has(a[href*="prograide.com"])
+google.*##.g:has(a[href*="prograide.com"])
+
 ||reposhub.com^
 bing.*##.b_algo:has(a[href*="reposhub.com"])
 duckduckgo.*##.result:has(a[href*="reposhub.com"])
